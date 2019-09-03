@@ -10,7 +10,7 @@ CNN-SVR is a deep learning-based method for CRISPR/Cas9 guide RNA (gRNA) on-targ
   [pandas](https://pandas.pydata.org/) 0.23.0  
   [scikit-learn](https://scikit-learn.org/stable/) 0.19.1  
   [scipy](https://www.scipy.org/) 1.1.0  
- * **[Keras](https://keras.io/) 1.1.0**    
+ * **[Keras](https://keras.io/) 2.1.0**    
  * **Tensorflow and dependencies:**   
   [Tensorflow](https://tensorflow.google.cn/) 1.4.0    
   CUDA 8.0 (for GPU use)    
