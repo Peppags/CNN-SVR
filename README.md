@@ -38,7 +38,7 @@ Download cuDNN tarball on https://developer.nvidia.com/cudnn
 #### **python cnnsvr.py**       
 **Note:**  
 * The input training and testing files should include gRNA sequence with length of 23 bp and four "A-N" symbolic corresponding epigenetic features seuqnces with length of 23 as well as label in each gRNA sequence.    
-* The train.csv, test.csv can replaced or modified to include gRNA sequence and four epigenetic features of interest  
+* The train.csv, test.csv can be replaced or modified to include gRNA sequence and four epigenetic features of interest  
 
 ## Demo instructions  
 #### **Input (gRNA sequence and four epigenetic features):**               
