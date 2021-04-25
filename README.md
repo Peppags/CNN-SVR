@@ -43,11 +43,11 @@ Download cuDNN tarball on https://developer.nvidia.com/cudnn
 ## Demo instructions  
 #### **Input (gRNA sequence and four epigenetic features):**               
 * #### **Data format:**      
-|**gRNA:**| TGAGAAGTCTATGAGCTTCAAGG (23bp) |     
-|**CTCF:**| NNNNNNNNNNNNNNNNNNNNNNN  |    
-| **Dnase:** AAAAAAAAAAAAAAAAAAAAAAA  |    
-| **H3K4me3:** NNNNNNNNNNNNNNNNNNNNNNN  |    
-| **RRBS:** NNNNNNNNNNNNNNNNNNNNNNN  |  
+**gRNA:** TGAGAAGTCTATGAGCTTCAAGG (23bp)      
+**CTCF:** NNNNNNNNNNNNNNNNNNNNNNN     
+**Dnase:** AAAAAAAAAAAAAAAAAAAAAAA      
+**H3K4me3:** NNNNNNNNNNNNNNNNNNNNNNN      
+**RRBS:** NNNNNNNNNNNNNNNNNNNNNNN    
 #### **Load weights (Pre-trained weight file):**        
 weights/weights.h5   
 #### **Run script:**       
