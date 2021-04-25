@@ -49,8 +49,8 @@ Download cuDNN tarball on https://developer.nvidia.com/cudnn
 *   **h3k4me3:** NNNNNNNNNNNNNNNNNNNNNNN (length=23)      
 *   **rrbs:** NNNNNNNNNNNNNNNNNNNNNNN (length=23)    
 #### **Load weights (Pre-trained weight file):**        
-./weights/weights.h5   
+weights/weights.h5   
 #### **Run script:**       
-python ./cnnsvr.py   
+python cnnsvr.py   
 #### **Output (Predicted activity score for gRNA):** 
 0.22743436 
